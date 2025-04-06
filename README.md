@@ -17,6 +17,7 @@ Um registro de tarefas que pretende ajudar o usuário na com organização diár
 ## Prototipação
 
 Tema Claro
+
 : Fundo: #F5F5F5 (um tom de cinza claro)
 
 : Texto Principal: #333333 (cinza escuro, para leitura fácil)
@@ -32,6 +33,7 @@ Tema Claro
 : Destacar Tarefas Completas: #A5D6A7 (um tom claro de verde, para tarefas finalizadas)
 
 Tema Escuro
+
 : Fundo: #121212 (preto suave)
 
 : Texto Principal: #E0E0E0 (cinza claro, para contraste)
